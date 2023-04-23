@@ -7,3 +7,6 @@
 * The notebooks were too large for Github and could be accessed through the links in Collab : 
 * 1 . https://colab.research.google.com/drive/1YyaUvUYQLKkUIYeaQ3PgIuTLTzfsPhbC?usp=sharing
 * 2 . https://colab.research.google.com/drive/12Xocyw_Md4PJc488Kuwhl4jdBTzE49Gh?usp=sharing
+
+
+* Requirements : install open3d
