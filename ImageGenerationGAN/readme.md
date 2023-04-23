@@ -1,2 +1,4 @@
 # Task :
-Generate Images using a Generative Adversarial Network in PyTorch
+* Deep Convolutional Gan for Image Generation in TensorFlow
+* GAN for MNIST Data Generation in PyTorch
+
