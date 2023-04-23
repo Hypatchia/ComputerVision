@@ -1,7 +1,8 @@
 ### Task :  Python | PyTorch | TensorFlow | Numpy 
 ### A variety of Image Preprocessing Techniques :
-* Image Data Augmentation using PyTorch Transforms or OpenCV 
-* Image Noisig using Stochastic Noise 
-* Color Transformation using PyTorch Transforms or OpenCV
-* Morphological Image Processing 
-* 
+* 1. Image Data Augmentation using PyTorch Transforms 
+* 2. Facial Images Noisig using Various Stochastic Noise  .
+* 3. Color Transformation using PyTorch Transforms 
+* 4. Image Data Augmentation using OpenCV
+ 
+
