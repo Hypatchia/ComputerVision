@@ -1,4 +1,5 @@
-
+### Task :  Python | TensorFlow Functional API | Numpy | UndercompleteAE | Tabular Data Recosntruction 
+* Objectif is to train an UndercompleteAutoEncoder to reconstruct a dataset while learning about AEs' training and Architecture .
 #### AutoEncoders, Unsupervised , Semi-Supervised
 
 * AE take an input vector , encode it into a latent space , decode it for an output 
